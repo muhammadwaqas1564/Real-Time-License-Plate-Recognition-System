@@ -1,4 +1,4 @@
-# REal Time License Plate Recognition System 🚘🚔
+# Real Time License Plate Recognition System 🚘🚔
 
 A robust web-based application designed to recognize license plates from uploaded images, store detected data, and manage toll charges. The **License Plate Recognition System** uses computer vision to identify license plates and provides an intuitive dashboard for tracking vehicles and revenue.
 
